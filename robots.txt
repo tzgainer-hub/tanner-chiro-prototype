@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tanner-chiro-production.up.railway.app/sitemap.xml
+Sitemap: https://tannerchiropractic.com/sitemap.xml
