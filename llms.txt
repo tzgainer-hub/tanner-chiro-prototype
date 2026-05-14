@@ -45,6 +45,14 @@ Most chiropractic offices offer adjustments and refer out for everything else. T
 - [Home](https://tannerchiropractic.com/)
 - [About Dr. Tanner](https://tannerchiropractic.com/about.html)
 - [Services](https://tannerchiropractic.com/services.html)
-- [Conditions](https://tannerchiropractic.com/conditions.html)
-- [New Patients](https://tannerchiropractic.com/new-patients.html)
-- [Contact](https://tannerchiropractic.com/contact.html)
+- [Conditions Overview](https://tannerchiropractic.com/conditions.html)
+- [New Patients · $49 Exam](https://tannerchiropractic.com/new-patients.html)
+- [Contact &amp; Hours](https://tannerchiropractic.com/contact.html)
+
+## Condition detail pages
+
+- [Lower Back Pain](https://tannerchiropractic.com/lower-back-pain.html) — disc, facet, SI joint, core weakness, hip mobility causes; treated with adjustments, spinal decompression, soft tissue, corrective exercise, shock wave (for stubborn tendon attachments), clinical Pilates.
+- [Sciatica](https://tannerchiropractic.com/sciatica.html) — caused by disc herniation, piriformis syndrome, SI joint dysfunction, or lumbar facet irritation. Treated with spinal decompression for disc cases, soft tissue and trigger point for piriformis, adjustments for joint cases, cold laser for inflammation, corrective exercise for the cause.
+- [Neck Pain &amp; Migraines](https://tannerchiropractic.com/neck-pain.html) — forward head posture, whiplash, cervicogenic headache, cervical radiculopathy. Treated with cervical/thoracic adjustment, acupuncture (especially for tension headaches and migraines), soft tissue, cervical decompression for radiculopathy, postural retraining.
+- [Shoulder &amp; Rotator Cuff Pain](https://tannerchiropractic.com/shoulder-pain.html) — rotator cuff strain, impingement, frozen shoulder, AC joint, biceps tendinitis, referred from neck. Treated with thoracic/shoulder adjustment, shock wave therapy (often avoids surgery for chronic tendinopathy), massage, cold laser, acupuncture, rotator cuff and scapular rehab.
+- [Golf Injury &amp; Swing Correction](https://tannerchiropractic.com/golf-injury.html) — Dr. Tanner is TPI Certified Level 1 and 2, developed the Golfer's Edge program at Desert Mountain, and has served as physician for PGA professionals. Treats lumbar, hip, shoulder, elbow, wrist, and knee injuries common to golfers, plus the underlying swing fault and body limitations.

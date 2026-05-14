@@ -601,7 +601,14 @@ img { max-width: 100%; display: block; }
   border: 1px solid var(--hairline);
   border-radius: var(--radius);
   padding: 30px;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
 }
+a.svc-card:hover {
+  border-color: var(--sage);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+a.svc-card:hover h3 { color: var(--sage-deep) !important; }
 .svc-card h3 {
   font-family: var(--serif);
   margin-top: 0;
