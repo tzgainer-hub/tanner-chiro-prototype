@@ -19,7 +19,7 @@ This document captures the findings. They're the reason we recommended a full re
 
 **Overall grade: C-**
 
-A competent-looking but strategically broken chiropractic site that hid Dr. Tanner's best assets — thirty years of experience and 179 five-star reviews — under a pile of stock-feeling photos and eight competing buttons. The Upwork developer wasn't lazy. They were doing exactly what most template-driven WordPress builds produce. The problem is what most template-driven WordPress builds produce isn't good enough for a thirty-year specialist whose patients include world champion athletes.
+A competent-looking but strategically broken chiropractic site that hid Dr. Tanner's best assets — thirty years of experience and a deep portfolio of five-star Google reviews — under a pile of stock-feeling photos and eight competing buttons. The Upwork developer wasn't lazy. They were doing exactly what most template-driven WordPress builds produce. The problem is what most template-driven WordPress builds produce isn't good enough for a thirty-year specialist whose patients include world champion athletes.
 
 The strategic problems were significant enough that fixing them inside the existing build would have been more work than starting clean — and would have left the underlying WordPress platform lock-in, page bloat, and slow load times in place.
 
@@ -68,7 +68,7 @@ A confused visitor doesn't decide — they leave. There were four different ways
 
 **This was the worst part of the site, and it's the easiest to fix.** The page had a "Patient Reviews" section that proudly said *"Patient Results Speak for Themselves"* — and then **showed zero actual reviews.** It linked to a Google Maps page where visitors could read them, but didn't display any.
 
-Dr. Tanner has 179 five-star reviews. Voted one of Arizona's Top 10 Chiropractors. Treated PGA pros and world champion boxers. None of that was visible on the page.
+Dr. Tanner has a deep portfolio of five-star Google reviews. He has served as physician for world champion boxers and world-class and professional golfers. He developed the Golfer's Edge performance program at Desert Mountain. None of that was visible on the page.
 
 You can't tell visitors "trust us" and then refuse to show them why.
 

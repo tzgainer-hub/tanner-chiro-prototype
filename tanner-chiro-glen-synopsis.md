@@ -24,7 +24,7 @@ The Upwork developer's revision had 15 sections and 25 photos. Your current live
 
 ### 2. Specifics sell. Claims don't.
 
-"30 years experience" is a claim. *"17 years team physician for Top Rank Boxing world champions. Physician for PGA professionals. Developed the Golfer's Edge program at Desert Mountain."* — those are specifics. The new site is built on specifics.
+"30 years experience" is a claim. *"Physician and corner man for multiple world champion boxers. Physician for world-class and professional golfers. Developer of the Golfer's Edge program at Desert Mountain."* — those are specifics. The new site is built on specifics.
 
 ### 3. One ask.
 
@@ -35,24 +35,24 @@ Your current site has eight different buttons (Schedule Appointment, Book Now, C
 ## How Each Page Sells You
 
 ### Homepage
-The tagline pulls them in — *"Don't Let Pain Stop You From Feeling Your Best."* Then a fast credibility cascade: 30+ years → TPI Certified → 179 five-star reviews → three real patient testimonials → why your integrated approach is different → your 10 services → your bio → the $49 first visit → the map → the final ask.
+The tagline pulls them in — *"Don't Let Pain Stop You From Feeling Your Best."* Then a fast credibility cascade: 30+ years → TPI Certified → five-star Google reviews → three real patient testimonials → why your integrated approach is different → your services → your bio → the $49 first visit → the map → the final ask.
 
 A visitor can be convinced you're the right doctor in under 90 seconds.
 
 ### About Dr. Tanner
-The deep credibility page. **Palmer College of Chiropractic West. C.C.S.M.S. Board Certified in Physiotherapy. TPI Levels 1 and 2. Top Rank Boxing — 17 years. PGA professional physician. Golfer's Edge at Desert Mountain. Arizona's Top 10 Chiropractors.** This is the page someone reads after the homepage convinces them you might be the answer — and seals it.
+The deep credibility page. **Palmer College of Chiropractic West. C.C.S.M.S. Board Certified in Physiotherapy. TPI Levels 1 and 2. Physician for world champion boxers. Physician for world-class and professional golfers. Developer of the Golfer's Edge program at Desert Mountain.** This is the page someone reads after the homepage convinces them you might be the answer — and seals it.
 
-### Services (one page, ten cards)
-Ten services explained in plain English with the patient's *problem* leading and the *modality* second. No jargon. No "let us help you on your wellness journey." Each service answers "when does this apply to me."
+### Services
+Eight integrated services (Chiropractic Care, Rehabilitation, Decompression Therapy, Cold Laser Therapy, Clinical Pilates, Personal Training, Massage Therapy, and the TPI Golf Performance program) explained in plain English with the patient's *problem* leading and the *modality* second. No jargon. Each service answers "when does this apply to me."
 
 ### Conditions — Five Dedicated Detail Pages
 This is the deepest strategic move. When someone in Scottsdale Googles *"chiropractor for sciatica"* or *"shoulder rotator cuff specialist Scottsdale,"* your page on that condition isn't a one-paragraph blurb — it's the most thorough, plain-English explanation in town. Each page covers what's actually going on biomechanically, when to come in, and exactly which combination of your tools we use to fix it. Pages built:
 
 - **Lower Back Pain** — the 6 typical contributors, the 4-to-8-week plan
-- **Sciatica** — five real causes (most chiros lump them together), surgical avoidance angle
-- **Neck Pain & Migraines** — postural cause, acupuncture for migraines
-- **Shoulder & Rotator Cuff** — shock wave as the surgery-avoidance tool
-- **Golf Injury & Swing Correction** — the TPI movement screen, swing fault → body limitation map, Desert Mountain / PGA credentials
+- **Sciatica** — five real causes (most chiros lump them together), conservative-care framing
+- **Neck Pain & Migraines** — postural cause, the integrated retraining plan
+- **Shoulder & Rotator Cuff** — biomechanical cause, the non-surgical option
+- **Golf Injury & Swing Correction** — the TPI movement screen, swing fault → body limitation map, Desert Mountain credentials
 
 Search engines reward thorough condition pages. Patients trust the doctor who explains the problem clearly. We win both.
 
@@ -71,11 +71,10 @@ Phone first (because you answer in person). A simple callback form for people wh
 
 | Your current site | The new site |
 |---|---|
-| "20 years experience" | "30+ years in practice" (overdue update) |
-| Top Rank Boxing — not mentioned | Top Rank Boxing 17 years — featured prominently |
+| "20 years experience" | "30+ years in practice" |
+| Boxing world champions — briefly mentioned | Boxing world champions — featured prominently |
 | Desert Mountain Golfer's Edge — not mentioned | Featured in its own homepage section |
-| Arizona Top 10 — not mentioned | In the trust bar and the bio |
-| 4 generic testimonials, no names | 3 real Google reviews with full attribution |
+| 4 generic testimonials, no names | 3 real Google reviews with full attribution (Angela M., K. B., Lauren S.) |
 | ChiroPlanet WordPress template | Custom-built, no platform lock-in, no monthly template fee |
 | Generic "Playing Your Best" hero | "Feeling Your Best" with full credibility cascade beneath |
 
@@ -94,10 +93,16 @@ Phone first (because you answer in person). A simple callback form for people wh
 
 ---
 
+## A Note On Accuracy
+
+This site uses **only** content sourced from your actual practice — your live site at **www.tannerchiropractic.com**. We have deliberately kept everything separate from "Tanner Chiropractic & Acupuncture" (your brother's practice at doctortanner.com), which is a different business. The services listed, the testimonials shown, the credentials cited — all are yours. We also flagged this distinction explicitly in the AI-search index file (`llms.txt`) so ChatGPT, Claude, and Perplexity won't conflate the two practices when patients ask about Scottsdale chiropractors.
+
+---
+
 ## What You Get Under The Hood (Plain English)
 
 - **Loads in under 3 seconds** on mobile and desktop.
-- **Schema.org tags** — so when Google looks at your site it understands "this is a Chiropractor in Scottsdale, AZ with 179 reviews averaging 4.9 stars," not just "another website." This is how you show up with stars in search results.
+- **Schema.org tags** — so when Google looks at your site it understands "this is a Chiropractor in Scottsdale, AZ with a specific list of services," not just "another website." This is how you show up correctly in local search results.
 - **An `llms.txt` file** — so when patients ask **ChatGPT or Claude or Perplexity** *"who's a good chiropractor for golfers in Scottsdale,"* the AI sees a clean index of your specialties and recommends you. This is the next decade of search; we built for it.
 - **HIPAA-safe** — no health data collected anywhere on the site. All clinical workflow stays inside your practice management software, exactly as it should.
 - **Mobile-first** — every page tested at phone, tablet, and desktop sizes.
@@ -121,13 +126,14 @@ Open it on your phone. Open it on your desktop. Click everything. Read the condi
 2. **Confirm the $49 new patient exam offer** — keep it as-is, change the price, or swap to "Free 15-min consultation"?
 3. **Send your online scheduler URL.** Every "Book Your Consultation" button can route to it instantly.
 4. **Any photos you want included** beyond the one we already have? Office shots, treatment-room shots, you with a patient — anything that's authentically you.
-5. **When you're happy, give us the green light** to migrate the live domain (tannerchiropractic.com → this build). It's a 30-minute DNS change and the new site goes live.
+5. **Should we add acupuncture or shock wave therapy as services?** Both appear in your patient testimonials but aren't in your formal service list right now — we left them out to match your current site. If you do offer either, we'll add them properly.
+6. **When you're happy, give us the green light** to migrate the live domain (tannerchiropractic.com → this build). It's a 30-minute DNS change and the new site goes live.
 
 ---
 
 ## Bottom Line
 
-Glen — you have spent thirty years building expertise that most chiropractors will never approach. You have treated world champions. You have treated PGA pros. You developed a performance program at one of the most prestigious golf communities in the country.
+Glen — you have spent thirty years building expertise that most chiropractors will never approach. You have served as physician for world champion boxers. You have served as physician for world-class and professional golfers. You developed a performance program at one of the most prestigious golf communities in the country.
 
 Your old site didn't say any of that with confidence. The Upwork rebuild was making it worse, not better.
 
