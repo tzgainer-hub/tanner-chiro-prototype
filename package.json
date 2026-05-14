@@ -1,0 +1,16 @@
+{
+  "name": "tanner-chiro",
+  "version": "0.1.0",
+  "description": "Tanner Chiropractic — North Scottsdale's integrated chiropractor. Dr. Glen Tanner.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "private": true
+}
