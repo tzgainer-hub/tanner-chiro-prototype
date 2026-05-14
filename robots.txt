@@ -1,4 +1,5 @@
+# Preview / staging deployment — keep search engines out until DNS migrates to tannerchiropractic.com
 User-agent: *
-Allow: /
+Disallow: /
 
 Sitemap: https://tannerchiropractic.com/sitemap.xml
